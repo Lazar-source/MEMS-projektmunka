@@ -1,4 +1,4 @@
-#Összefoglalás
+# Összefoglalás
 
 Biztonági rendszerünk autókba behelyezve védelmet nyújt az esetleges balesetek megelőzése ellen.
 Kritikus dőlésszögeket beállítva, a Sense HAT-en elhelyezett LED-mátrix mutatja, merre dől az autó,
