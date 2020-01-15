@@ -8,9 +8,9 @@ Az eszköz mindemellett képes arra, hogy hirtelen túl nagy G gyorsulást mérv
 egy helyi adatbázisba, amit grafikusan is megjelenít az Initial State nevű oldalon. Mivel online ábrázol a szerkezet
 minden mérés után, ezért bármilyen eszközről megtekinthető dátumra pontosan (a 14 napos Trial verzión belül).
 
-Targykod: GKNB_INTM020
+*Targykod: GKNB_INTM020
 A projektmunkat keszitette: Lazar Tamas BBLO30
-                            Bogdan Adam XL6KK5
+                            Bogdan Adam XL6KK5*
                             
-Szechenyi Istvan Egyetem
-2020.01.15
+*Szechenyi Istvan Egyetem
+2020.01.15*
